@@ -1,0 +1,3 @@
+*.csv
+results/
+.DS_Store
